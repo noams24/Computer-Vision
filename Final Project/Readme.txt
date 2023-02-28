@@ -10,5 +10,8 @@ If you wish to get the output excel result you need to run the file "main.py", a
 tensorflow, json, h5py, numpy, python-opencv, PIL, pandas.
 also make sure the you have model folder that contains the files: "model.hdf5", "model.json", "letters_probabilty.json".
 
+train set link: https://drive.google.com/drive/folders/1jzHYpTwywUYA53nMGHVROSuVO14hEueq?usp=sharing
+test set link:  https://drive.google.com/drive/folders/1hmPI7KaWcv-OLwJEQvMNjbOu9IhU_7CR?usp=sharing
+
 Good luck!
 
