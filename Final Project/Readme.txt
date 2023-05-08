@@ -1,4 +1,4 @@
-Final project Computer Vision course - Font Classifier
+Final project Computer Vision course - Font recognizer
 Grade: 100
 Model Accuraccy: 95%
 
