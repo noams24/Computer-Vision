@@ -1,3 +1,7 @@
+Final project Computer Vision course - classify fonts
+Grade: 100
+Model Accuraccy: 95%
+
 How to run the program:
 I recommend to use google colab to view the project for convenience, but you can also use jupyter notebook.
 
